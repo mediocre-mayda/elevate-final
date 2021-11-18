@@ -178,40 +178,41 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>How Elevate Works ? </h2>
+          <p>We help users search for companies and services that are provided by women entrepreneurs in their area in a more targeted way.</p>
         </div>
 
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Find Businesses</a></h4>
+              <p>Discover & connect with great local businesses in your local neighborhood like dentists, hair stylists, designers and more.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Review Listings</a></h4>
+              <p>Getting your business locations listed on Elevate reviews will help improve your brand presence in search results.</p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Make a Reservation</a></h4>
+              <p>Elevate provides an online reservation management system that makes customers have additional ways to discover your business. </p>
             </div>
           </div>
 
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Connect With Investors </a></h4>
+              <p>
+                Elevate provides online tools to help entrepreneurs, investors and lenders make better decisions about businesses they care about.</p>
             </div>
           </div>
 
@@ -323,7 +324,7 @@
       </div>
     </section><!-- End Team Section -->
 
-    
+
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
