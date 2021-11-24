@@ -252,16 +252,15 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/QOGwkSh.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>Mohammed Nasr</h4>
+                <span>Chief Web Developers</span>
+                <p>co-founding Elevate and chief web developer who participated in the development</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://telegram.com/mediocre?utm_medium=copy_link"><i class="ri-telegram-fill"></i></a>
+                  <a href="https://www.facebook.com/Libyan.MayDa?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://github.com/mediocre-mayda"> <i class="ri-github-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -269,16 +268,16 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/OWGGuiW.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>Najla Almissalati</h4>
+                <span>CEO</span>
+                <p>Co-founder of Elevate,Electrical Engineer, Feminist, seeking to support, develop and advance women.
+</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://twitter.com/najla_missalati/?utm_medium=copy_link"><i class="ri-twitter-fill"></i></a>
+
+                   <a href="https://instagram.com/najla_almissalati?utm_medium=copy_link"><i class="ri-instagram-fill"></i></a>
                 </div>
               </div>
             </div>
@@ -286,28 +285,26 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/aN4XWbt.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>Mohammed Balaam</h4>
+                <span>Chief App Developers</span>
+                <p>Co-founder Of Elevate and chief App developer who participated in the development</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://twitter.com/BalamMohamed?s=20"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://www.facebook.com/balam.mohamed?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">g
+              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>Nizar Kwafi</h4>
+                <span>Cheif Graphic Design</span>
+                <p>Co founder of Elevate and Chief Graphic Designers who participated in the design</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -321,7 +318,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section><!-- End Team Section --> 
 
     
 
