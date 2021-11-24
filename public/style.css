@@ -565,7 +565,10 @@ section {
   padding: 15px 0;
   filter: grayscale(100);
 }
-
+.cliens-row{
+display: flex;
+justify-content: center;
+}
 .cliens img:hover {
   filter: none;
   transform: scale(1.1);
