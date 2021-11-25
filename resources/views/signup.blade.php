@@ -12,7 +12,7 @@
         }
          body{
             background-color: papayawhip;
-            background-image: linear-gradient(to right, rgba(110, 108, 146, 0), rgba(134, 135, 145, 0.767));
+            background-image: linear-gradient(to right, rgba(226, 144, 199, 0), rgba(134, 135, 145, 0.767));
          }
          #ni {
 

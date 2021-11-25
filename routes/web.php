@@ -17,9 +17,6 @@ use App\Http\Controllers\ContactController;
 Route::get('/', function () {
     return view('index');
 });
-<<<<<<< HEAD
-Route::get('/signup',[UserController::class,'signup']);
-Route::post('adduser',[UserController::class,'usersign'])->name('adduser');
-=======
 Route::post('/', [ContactController::class, 'ContactForm'])->name('contact');
->>>>>>> 2a94cb49253b3247d1e61b236299dcc7e7285a03
+Route::get('/signup',[UserController::class,'signup'])->name('signup');
+Route::post('/adduser',[UserController::class,'usersign'])->name('adduser');
