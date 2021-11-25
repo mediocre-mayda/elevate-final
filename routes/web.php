@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ContactController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,5 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+<<<<<<< HEAD
 Route::get('/signup',[UserController::class,'signup']);
 Route::post('adduser',[UserController::class,'usersign'])->name('adduser');
+=======
+Route::post('/', [ContactController::class, 'ContactForm'])->name('contact');
+>>>>>>> 2a94cb49253b3247d1e61b236299dcc7e7285a03
