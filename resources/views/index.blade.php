@@ -172,7 +172,7 @@
               <p>Discover & connect with great local businesses in your local neighborhood like dentists, hair stylists, designers and more.</p>
             </div>
           </div>
-
+gi
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
