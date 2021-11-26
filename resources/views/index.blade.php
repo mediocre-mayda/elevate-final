@@ -43,8 +43,7 @@
     <div class="container d-flex align-items-center">
 
       <h1 class="logo me-auto"><a href="#">Elevate</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -69,13 +68,13 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>Empowering Her Future</h1>
-          <h2>In Elevate we aim to help libyan buisness women to reach their goals, because together we can make it.</h2>
+          <h2>Elevate is a platform that brings together women entrepreneurs from different Libyan cities and connects them with local and international investors and financiers.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href={{route('signup')}} method="GET" class="btn-get-started scrollto">Join Us</a>
+            <a href="#" method="GET" class=" btn-watch-video">Watch video</a>
           </div>
         </div>
-        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-          <img src="assets/img/heroimg.png" class="img-fluid " alt="">
+
         </div>
       </div>
     </div>
@@ -100,7 +99,7 @@
             <img src="assets/img/clients/canada.png" class="img-fluid" alt="">
           </div>
 
-         
+
 
           <!-- <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
@@ -332,7 +331,7 @@
                 </p>
               </div>
             </li>
-   
+
 
           </ul>
         </div>
