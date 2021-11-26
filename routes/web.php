@@ -20,3 +20,6 @@ Route::get('/', function () {
 Route::get('/signup',[UserController::class,'signup']);
 Route::post('adduser',[UserController::class,'usersign'])->name('adduser');
 Route::post('/', [ContactController::class, 'ContactForm'])->name('contact');
+Route::post('/', [ContactController::class, 'ContactForm'])->name('contact');
+Route::get('/signup',[UserController::class,'signup'])->name('signup');
+Route::post('/adduser',[UserController::class,'usersign'])->name('adduser');

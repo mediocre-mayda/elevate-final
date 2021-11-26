@@ -52,9 +52,9 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          
+
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Join Us</a></li>
+          <li><a class="getstarted scrollto" href={{route('signup')}} method="GET">Join Us</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -71,7 +71,7 @@
           <h1>Empowering Her Future</h1>
           <h2>In Elevate we aim to help libyan buisness women to reach their goals, because together we can make it.</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Join Us</a>
+            <a href={{route('signup')}} method="GET" class="btn-get-started scrollto">Join Us</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -120,50 +120,27 @@
     </section><!-- End Cliens Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>About Us</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
-          </div>
-        </div>
-
+    <section id="about" class="services section-bg " data-aos="fade-up" style="
+    padding-bottom: 0px;
+">
+      <!-- <div class="container" data-aos="fade-up"> -->
+      <div class="section-title container">
+        <h2>About Us</h2>
+        <p>Elevate is an Organization that supports Women Business Owners, Entrepreneurs and Freelancers to access resources, confidence and networks they need to grow their businesses. Elevate offers a Website and a Mobile Application for women to present their Work Online.</p>
+        <br><br><br>
       </div>
-    </section><!-- End About Us Section -->
-
-
-
-
+    </section><!-- End About Section -->
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <section id="services" class="services section-bg" style="
+    padding-top: 0px;
+">
       <div class="container" data-aos="fade-up">
+
 
         <div class="section-title">
           <h2>How Elevate Works ? </h2>
           <p>We help users search for companies and services that are provided by women entrepreneurs in their area in a more targeted way.</p>
         </div>
-
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
@@ -172,7 +149,10 @@
               <p>Discover & connect with great local businesses in your local neighborhood like dentists, hair stylists, designers and more.</p>
             </div>
           </div>
+<<<<<<< HEAD
 gi
+=======
+>>>>>>> 70ff4a78f872088994be5286bc273732597c80e4
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
@@ -180,7 +160,6 @@ gi
               <p>Getting your business locations listed on Elevate reviews will help improve your brand presence in search results.</p>
             </div>
           </div>
-
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
@@ -188,7 +167,6 @@ gi
               <p>Elevate provides an online reservation management system that makes customers have additional ways to discover your business. </p>
             </div>
           </div>
-
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
@@ -197,9 +175,7 @@ gi
                 Elevate provides online tools to help entrepreneurs, investors and lenders make better decisions about businesses they care about.</p>
             </div>
           </div>
-
         </div>
-
       </div>
     </section><!-- End Services Section -->
 
@@ -397,48 +373,49 @@ gi
                 <p>+218 92 000 0000</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.5576390150263!2d20.093238774765574!3d32.05416304555067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13831b7eb4073d57%3A0xc4c706780c45a5f3!2z2YHZitmG2YrYs9mK2Kc!5e0!3m2!1sar!2sly!4v1637607773450!5m2!1sar!2sly" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe></div>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.5576390150263!2d20.093238774765574!3d32.05416304555067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13831b7eb4073d57%3A0xc4c706780c45a5f3!2z2YHZitmG2YrYs9mK2Kc!5e0!3m2!1sar!2sly!4v1637607773450!5m2!1sar!2sly" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
+          </div>
 
-            <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-              @if(Session::has('success'))
-              <div class="alert alert-success">
-                {{Session::get('success')}}
+          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            @if(Session::has('success'))
+            <div class="alert alert-success">
+              {{Session::get('success')}}
+            </div>
+            @endif
+
+            <form action="{{ route('contact') }}" method="post" role="form" class="php-email-form">
+              @csrf
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="name" class="form-control" id="name">
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email">
+                </div>
               </div>
-              @endif
-
-              <form action="{{ route('contact') }}" method="post" role="form" class="php-email-form">
-                @csrf
-                <div class="row">
-                  <div class="form-group col-md-6">
-                    <label for="name">Your Name</label>
-                    <input type="text" name="name" class="form-control" id="name">
-                  </div>
-                  <div class="form-group col-md-6">
-                    <label for="name">Your Email</label>
-                    <input type="email" class="form-control" name="email" id="email">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label for="name">Subject</label>
-                  <input type="text" class="form-control" name="subject" id="subject">
-                </div>
-                <div class="form-group">
-                  <label for="name">Message</label>
-                  <textarea class="form-control" name="message" rows="10"></textarea>
-                </div>
-                <div class="my-3">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-                </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
-              </form>
-            </div>
-
+              <div class="form-group">
+                <label for="name">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject">
+              </div>
+              <div class="form-group">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="message" rows="10"></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
           </div>
 
         </div>
+
+      </div>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
