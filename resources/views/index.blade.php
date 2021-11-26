@@ -215,8 +215,8 @@
                 <div class="social">
                   <a href="https://telegram.com/mediocre?utm_medium=copy_link"><i class="ri-telegram-fill"></i></a>
                   <a href="https://www.facebook.com/Libyan.MayDa?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
-                  <a href="https://github.com/mediocre-mayda"> <i class="ri-github-box-fill"></i> </a>
-                </div>
+                  <a href="https://github.com/mediocre-mayda"> <i class="ri-github-fill"></i> </a>
+                  <a href="https://github.com/mediocre-mayda"> <i class="ri-instgram-fill"></i> </a>                </div>
               </div>
             </div>
           </div>
@@ -233,7 +233,11 @@
                   <a href="https://twitter.com/najla_missalati/?utm_medium=copy_link"><i class="ri-twitter-fill"></i></a>
 
                    <a href="https://instagram.com/najla_almissalati?utm_medium=copy_link"><i class="ri-instagram-fill"></i></a>
-                </div>
+                   <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                
+                
+                  </div>
               </div>
             </div>
           </div>
@@ -248,6 +252,9 @@
                 <div class="social">
                   <a href="https://twitter.com/BalamMohamed?s=20"><i class="ri-twitter-fill"></i></a>
                   <a href="https://www.facebook.com/balam.mohamed?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
+                
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
