@@ -216,7 +216,7 @@
                   <a href="https://telegram.com/mediocre?utm_medium=copy_link"><i class="ri-telegram-fill"></i></a>
                   <a href="https://www.facebook.com/Libyan.MayDa?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
                   <a href="https://github.com/mediocre-mayda"> <i class="ri-github-fill"></i> </a>
-                  <a href="https://github.com/mediocre-mayda"> <i class="ri-instgram-fill"></i> </a>                </div>
+                  <a href=""> <i class="ri-instgram-fill"></i> </a>                </div>
               </div>
             </div>
           </div>
