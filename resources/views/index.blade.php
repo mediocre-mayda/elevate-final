@@ -93,14 +93,14 @@
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/shecodes.png" class="img-fluid" alt="">
           </div>
-
+ <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/sarab.png" class="img-fluid" alt="">
+          </div>
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/canada.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/sarab.jpg" class="img-fluid" alt="">
-          </div>
+         
 
           <!-- <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
@@ -207,16 +207,15 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/QOGwkSh.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>Mohammed Nasr</h4>
+                <span>Chief Web Developers</span>
+                <p>co-founding Elevate and chief web developer who participated in the development</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://telegram.com/mediocre?utm_medium=copy_link"><i class="ri-telegram-fill"></i></a>
+                  <a href="https://www.facebook.com/Libyan.MayDa?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://github.com/mediocre-mayda"> <i class="ri-github-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -224,16 +223,16 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/OWGGuiW.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>Najla Almissalati</h4>
+                <span>CEO</span>
+                <p>Co-founder of Elevate,Electrical Engineer, Feminist, seeking to support, develop and advance women.
+</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://twitter.com/najla_missalati/?utm_medium=copy_link"><i class="ri-twitter-fill"></i></a>
+
+                   <a href="https://instagram.com/najla_almissalati?utm_medium=copy_link"><i class="ri-instagram-fill"></i></a>
                 </div>
               </div>
             </div>
@@ -241,16 +240,14 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/aN4XWbt.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>Mohammed Balaam</h4>
+                <span>Chief App Developers</span>
+                <p>Co-founder Of Elevate and chief App developer who participated in the development</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://twitter.com/BalamMohamed?s=20"><i class="ri-twitter-fill"></i></a>
+                  <a href="https://www.facebook.com/balam.mohamed?utm_medium=copy_link"><i class="ri-facebook-fill"></i></a>
                 </div>
               </div>
             </div>
@@ -258,11 +255,11 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>Nizar Kwafi</h4>
+                <span>Cheif Graphic Design</span>
+                <p>Co founder of Elevate and Chief Graphic Designers who participated in the design</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -281,60 +278,53 @@
 
 
     <!-- ======= Frequently Asked Questions Section ======= -->
+   <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Below you'll find answers to the questions we get asked the most about applying for Elevate.</p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">What is Elevate? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  An online portal exclusively designed for women from different parts of Libya to fulfill their entrepreneurial dreams and aspirations. It is a platform where creatively inclined women of our country can use it as a launch pad for their dream of becoming entrepreneurs.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">What is the objective of Elevate? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  The basic objective of Elevate is to bring women out in the forefront as aspiring entrepreneurs where they get a chance to display their products and businesses.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Who can join Elevate? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  Women from any nook and corner of Libya who want to promote and sell their services and who have the passion of doing something on their own can join the platform. Elevate intends to attract the attention of women who have entrepreneurial talent and looking to scale their business.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">What is the vision of Elevate? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                  Elevate is proud to support women entrepreneurship at every stage of their business to help achieve the vision to be more forward thinking and grow their business. Women's empowerment has a multiplier effect not only on our own lives but also on the family and the society. We are a women-oriented platform solely designed to bring forth the hidden creative talent of our women artisans and craftswomen to a larger audience and help them to be financially independent.
                 </p>
               </div>
             </li>
-
-            <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-                </p>
-              </div>
-            </li>
+   
 
           </ul>
         </div>
