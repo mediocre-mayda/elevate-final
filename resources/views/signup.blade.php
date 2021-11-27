@@ -1,97 +1,62 @@
-<html lang="en">
+@extends('index')
+@section('content')
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>signup</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <style>
-        input[type=text] {
-            width: 50%;
-        }
+<section class="vh-100 gradient-custom">
+    <div class="container py-5 h-100">
+        <div class="row justify-content-center align-items-center h-100">
+            <div class="col-12 col-lg-9 col-xl-7">
+                <div class="card shadow-2-strong card-registration" style="border-radius: 15px;">
+                    <div class="card-body p-4 p-md-5">
+                        <h3 class="mb-4 pb-2 pb-md-0 mb-md-5" style="color: black;">Registration Form</h3>
+                        <form action={{route('adduser')}} method="POST">
+                            @csrf
+                            <div class="col-md-6 mb-4">
 
-        body {
-            background-color: papayawhip;
-            background-image: linear-gradient(to right, rgba(226, 144, 199, 0), rgba(134, 135, 145, 0.767));
-        }
+                                <div class="form-outline">
+                                    <label class="form-label" for="Username">Username</label>
+                                    <input type="text" id="firstName" class="form-control form-control-lg" name="username" value="{{old('username')}}" />
+                                    <span class="text-danger">@error('username'){{$message}} @enderror</span>
+                                </div>
 
-        #ni {
 
-            width: 1200px;
-            text-align: center;
-            box-sizing: border-box;
-            border: 4px outset rgb(152, 154, 173);
-            margin-top: 15px;
-            margin-left: 55px;
-            margin-bottom: 15px;
-            padding: 45px;
-            font-style: oblique;
-        }
+                            </div>
+                            <div class="col-md-6 mb-4">
 
-        #bu {
-            color: rgb(56, 9, 52);
-            background-image: linear-gradient(to right, rgba(166, 163, 182, 0.767), rgb(90, 93, 141));
-        }
-    </style>
-</head>
+                                <div class="form-outline">
+                                    <label class="form-label" for="name">Business name</label>
+                                    <input type="text" id="firstName" class="form-control form-control-lg" name="name" value="{{old('name')}}" />
+                                    <span class="text-danger">@error('name'){{$message}} @enderror</span>
 
-<body>
-    <div class="containter">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-4" style="margin-top:20px;">
-                <div id="ni">
-                    <h3>Sign Up</h3>
-                    <p> <br> create an account to get connected with<strong> Elevate </strong> team and list your business </p>
+                                </div>
 
-                    <hr>
-                    <p style="color: green;">
-                        @if(session()->has('status'))
-                        {{session('status')}}
-                        @endif
-                    </p>
-                    <form action={{route('adduser')}} method="POST">
-                        @csrf
 
-                        <br>
-                        <div class="form.group">
-                            <label for="username">Username</label>
-                            <input type="text" class="form.control" placeholder="enter username" name="username" value="{{old('username')}}">
-                            <br>
-                            <span class="text-danger">@error('username'){{$message}} @enderror</span>
-                        </div> <br>
-                        <div class="form.group">
-                            <label for="name"> Business Name</label>
-                            <input type="text" class="form.control" placeholder="enter your Businesss name" name="name" value="{{old('name')}}">
-                            <br>
-                            <span class="text-danger">@error('name'){{$message}} @enderror</span>
-                        </div>
-                        <br>
+                            </div>
+                            <div class="col-md-6 mb-4">
 
-                        <div class="form.group">
-                            <label for="email"> Email </label>
-                            <input type="text" class="form.control" placeholder="enter Email" name="email" value="{{old('email')}}">
-                            <br>
-                            <span class="text-danger">@error('email'){{$message}} @enderror</span>
-                        </div>
-                        <br>
-                        <div class="form.group">
-                            <label for="password">Password</label>
-                            <input type="text" class="form.control" placeholder="enter password" name="password" value="{{old('password')}}">
-                            <br>
-                            <span class="text-danger">@error('password'){{$message}} @enderror</span>
-                        </div>
-                        <br>
-                        <div class="form.group">
-                            <button id="bu" type="submit" class="btn btn-default" data-dismiss="modal"><em>Sign Up!</em></button>
-                        </div>
-                        <br>
-                        <a href="login">already registered!, Login Here</a>
+                                <div class="form-outline">
+                                    <label class="form-label" for="Email">Email</label>
+                                    <input type="email" id="firstName" class="form-control form-control-lg" name="email" value="{{old('email')}}" />
+                                    <span class="text-danger">@error('email'){{$message}} @enderror</span>
+                                </div>
+
+
+                            </div>
+                            <div class="col-md-6 mb-4">
+
+                                <div class="form-outline">
+                                    <label class="form-label" for="Password">Password</label>
+                                    <input type="password" id="firstName" class="form-control form-control-lg" name="password" value="{{old('password')}}" />
+                                    <span class="text-danger">@error('password'){{$message}} @enderror</span>
+                                </div>
+                            </div>
+                            <div class="mt-4 pt-2">
+                                <input class="btn btn-lg" type="submit" value="Submit" style="background-color: #f2a3b3;color: #fff; " />
+                            </div>
+                    </div>
                     </form>
                 </div>
             </div>
         </div>
-</body>
-
-</html>
+    </div>
+</section>
+@endsection
