@@ -206,7 +206,7 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="https://i.imgur.com/QOGwkSh.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/OygeRvT.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Mohammed Nasr</h4>
                 <span>Chief Web Developers</span>
@@ -223,7 +223,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div class="pic"><img src="https://i.imgur.com/OWGGuiW.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/nSSwiVl.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Najla Almissalati</h4>
                 <span>CEO</span>
@@ -262,7 +262,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg?1" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Nizar Kwafi</h4>
                 <span>Cheif Graphic Design</span>
