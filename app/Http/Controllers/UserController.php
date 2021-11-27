@@ -19,7 +19,6 @@ class UserController extends Controller
             'username' => 'required',
             'password' => 'required|min:5 |max:12',
             'email' => 'required|unique:users',
-            'subject' => 'required'
         ]);
 
         $user = new ModelsUser();
@@ -27,10 +26,7 @@ class UserController extends Controller
         $user->username = $request->username;
         $user->password = $request->password;
         $user->email = $request->email;
-        $user->subject = $request->subject;
         $res = $user->save();
-
-        return back()->with('status', 'you signed up successfully :)');
-        // return "you signed up successfully :)";
+        return redirect()->route('home');
     }
 }
