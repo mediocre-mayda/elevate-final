@@ -262,7 +262,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://i.imgur.com/DqBX8Lu.jpg?1" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Nizar Kwafi</h4>
                 <span>Cheif Graphic Design</span>
